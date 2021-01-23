@@ -24424,6 +24424,3 @@
 24421,Inquisitor's plateskirt,false,
 24422,Nightmare staff,false,
 24423,Harmonised nightmare staff,false,
-24424,[,false,
-24425,[,false,
-24426,C,false,
