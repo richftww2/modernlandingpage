@@ -9179,7 +9179,7 @@
 9178,null,false,
 9179,Steel crossbow,false,
 9180,null,false,
-9181,Mith crossbow,false,
+9181,Mithril crossbow,false,
 9182,null,false,
 9183,Adamant crossbow,false,
 9184,null,false,
