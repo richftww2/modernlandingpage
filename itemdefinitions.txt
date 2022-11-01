@@ -9242,7 +9242,7 @@
 9241,Emerald bolts (e),true,
 9242,Ruby bolts (e),true,
 9243,Diamond bolts (e),true,
-9244,Dragon bolts (e),true,
+9244,Dragonstone bolts (e),true,
 9245,Onyx bolts (e),true,
 9246,null,true,
 9247,null,true,
