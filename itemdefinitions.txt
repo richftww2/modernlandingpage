@@ -9339,7 +9339,7 @@
 9338,Emerald bolts,true,
 9339,Ruby bolts,true,
 9340,Diamond bolts,true,
-9341,Dragon bolts,true,
+9341,Dragonstone bolts,true,
 9342,Onyx bolts,true,
 9343,null,true,
 9344,null,true,
