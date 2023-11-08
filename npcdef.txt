@@ -8606,3 +8606,4 @@ Spitting Wyvern,253,227,Attack ,3612,10279,0,
 Hill Giant,253,227,Attack ,3378,3151,0,
 Head Guard,12485,0,Talk-to ,2615,3144,0,
 Foreman,12485,0,Talk-to ,3001,3045,0,
+Mistag,12485,0,Talk-to ,3315,9612,0
