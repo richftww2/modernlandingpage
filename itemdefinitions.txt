@@ -27647,3 +27647,4 @@
 27646,null,false,
 27647,null,false,
 28790,Kourend castle teleport,false,
+28791,Kourend castle teleport,false,
