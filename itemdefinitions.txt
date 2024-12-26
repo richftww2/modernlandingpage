@@ -26217,7 +26217,7 @@
 26216,Null,false,
 26217,null,false,
 26218,null,false,
-26219,null,false,
+26219,Osmumten's fang,false,
 26220,null,false,
 26221,Ancient ceremonial top,false,
 26222,null,false,
