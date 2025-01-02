@@ -29082,7 +29082,7 @@
 29081,null,false,
 29082,null,false,
 29083,null,false,
-29084,null,false,
+29084,Sulphur blades,false,
 29085,null,false,
 29086,null,false,
 29087,null,false,
