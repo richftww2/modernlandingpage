@@ -4306,7 +4306,7 @@
 4305,null,false,
 4306,Ham logo,false,
 4307,null,false,
-4308,Ham gloves,true,
+4308,Ham gloves,false,
 4309,null,false,
 4310,Ham boots,false,
 4311,null,false,
