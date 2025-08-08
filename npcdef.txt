@@ -8888,3 +8888,5 @@ Deadly red spider,3192,34,Attack ,2846,9581,0,
 Skeleton,3197,22,Attack ,2856,9575,0,
 Skeleton,3196,22,Attack ,2859,9572,0,
 Skeleton,3198,22,Attack ,2866,9568,0,
+Ithoi the Navigator,3198,22,Talk-to ,2529,2837,1,
+
