@@ -28989,7 +28989,7 @@
 28988,Blue moon spear,false,
 28989,null,false,
 28990,null,false,
-28991,null,true,
+28991,Atlatl dart,true,
 28992,null,false,
 28993,null,true,
 28994,null,true,
