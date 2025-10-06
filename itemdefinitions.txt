@@ -1468,7 +1468,7 @@
 1467,Damp sticks,false,
 1468,Dry sticks,false,
 1469,Broken glass,false,
-1470,Red bead,true,
+1470,Red bead,false,
 1471,null,false,
 1472,Yellow bead,false,
 1473,null,false,
