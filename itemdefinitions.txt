@@ -714,7 +714,7 @@
 713,Clue scroll,false,
 714,Radimus notes,false,
 715,Radimus notes,false,
-716,Bull roarer,false,
+716,Bullroarer,false,
 717,Scrawled note,false,
 718,A scribbled note,false,
 719,Scrumpled note,false,
